@@ -2,10 +2,20 @@
 <rss version="2.0">
 <channel>
   <title>每日更新推送</title>
-  <item>
-    <title><![CDATA[Strategy of Protest and Revolution 1: Basic Elements]]></title>
+  <link>https://github.com/ZHENHUA001A307/link-to-RSS-2</link>
+  <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
+  <lastBuildDate>Thu, 26 Mar 2026 10:53:35 +0000</lastBuildDate>
+    <item>
+      <title><![CDATA[The Strategy of Machiavelli]]></title>
+      <link>https://www.youtube.com/watch?v=NaORhYKBFZU</link>
+      <description><![CDATA[马基雅维利战略：古典政治哲学：战略研究的必修课，奠定政治与军事结合的基础。]]></description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=NaORhYKBFZU</guid>
+      <pubDate>Thu, 26 Mar 2026 10:53:35 +0000</pubDate>
+    </item>
+<item>
+    <title>Strategy of Protest and Revolution 1: Basic Elements</title>
     <link>https://www.youtube.com/watch?v=YeK1VAZrjso</link>
-    <description><![CDATA[抗争与革命战略 1：基本要素：理论起点：理解一切革命和抗争行动的最底层逻辑和框架。]]></description>
+    <description>抗争与革命战略 1：基本要素：理论起点：理解一切革命和抗争行动的最底层逻辑和框架。</description>
     <guid>https://www.youtube.com/watch?v=YeK1VAZrjso</guid>
     <pubDate>Mon, 23 Mar 2026 10:03:10 +0000</pubDate>
   </item>
